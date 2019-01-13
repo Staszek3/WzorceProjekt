@@ -10,7 +10,7 @@ class MoneyTest {
 //private static final float TEST_AMOUNT=5.56f;
 //private static final Currency TEST_CURRENCY=Currency.PLN;
 //    @Test
-//    void shouldReturnMoneyValiu() {
+//    void shouldReturnMoneyValid() {
 //
 //       // given
 //        Money money=new Money(Currency.Euro,5.56f);

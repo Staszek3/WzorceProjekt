@@ -20,6 +20,11 @@ public class Palindrom {
         System.out.println("Obliczona liczba " + number + " jest palindromem. Liczba wykonanych dodawan: " + counter);
 
     }
+
+    /** Ta metoda służy do czegos
+     * @param input Przyjmuje para
+     * @return
+     */
     public static boolean isPalindrom(String input) {
 
         String reverse = new StringBuilder(input).reverse().toString();
